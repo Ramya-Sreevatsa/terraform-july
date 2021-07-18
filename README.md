@@ -1,0 +1,2 @@
+# terraform-july
+terraform training
